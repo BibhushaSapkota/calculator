@@ -80,6 +80,6 @@ button_sub=Button(root,text='-',padx=40,pady=20,command=button_sub).grid(row=4, 
 button_mul=Button(root,text='*',padx=40,pady=20,command=button_mul).grid(row=5, column=0)
 button_div=Button(root,text='/',padx=40,pady=20,command=button_div).grid(row=6, column=0)
 button_equal=Button(root,text='=',padx=89,pady=20,command=button_equal).grid(row=5, column=1,columnspan=2)
-button_clear=Button(root,text='clear',padx=80,pady=20,command=button_clear).grid(row=6, column=1,columnspan=2)
+button_clear=Button(root,text='clear',padx=90,pady=20,command=button_clear).grid(row=6, column=1,columnspan=2)
 
 root.mainloop()
