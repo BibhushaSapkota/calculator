@@ -1,6 +1,6 @@
 # calculator
 I have build this simple calculator by importing tkinter.
-![Screenshot (9)](https://user-images.githubusercontent.com/78782325/115667186-46378480-a365-11eb-96b5-ccb288c3d4f1.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/78782325/115667206-4b94cf00-a365-11eb-80f0-74820287b867.png)
-![Screenshot (6)](https://user-images.githubusercontent.com/78782325/115667218-4fc0ec80-a365-11eb-9605-867e2c0e4dc8.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/78782325/115671572-61f15980-a36a-11eb-9b28-5d37d9b3eb62.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/78782325/115671731-8baa8080-a36a-11eb-92fa-45d3d2fcb893.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/78782325/115671739-8e0cda80-a36a-11eb-82d4-796cf5f38e91.png)
 
