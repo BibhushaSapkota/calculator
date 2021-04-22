@@ -57,11 +57,11 @@ def button_equal():
     e.delete(0,END)
     if result=='add':
         e.insert(0, f_num + int(second_number))
-    if result=='sub':
+    elif result=='sub':
         e.insert(0, f_num - int(second_number))
-    if result=='mul':
+    elif result=='mul':
         e.insert(0, f_num * int(second_number))
-    if result=='div':
+    elif result=='div':
         e.insert(0, f_num / int(second_number))
 
 
